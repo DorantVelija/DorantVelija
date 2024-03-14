@@ -8,10 +8,7 @@
 - 🖌️ Design: I enjoy creating visually appealing and user-friendly designs.
 - 🌐 Web Development: I'm constantly learning and exploring new web technologies.
 - 🤖 Software Engineering: I'm enthusiastic about building efficient and scalable software solutions.
-
-## Projects
-Feel free to explore some of my projects here on GitHub. From web development to design, I'm always working on something exciting!
-
+- 🏎️🏁 Avid F1 watcher and automotive engineering enthusiast 🛠️
 ## Let's Connect
 I'm always open to collaboration and learning from others. Connect with me on LinkedIn [here](https://linkedin.com/in/dorantvelija) or my website [here](https://dorantvelija.com) and let's create something awesome together!
 
