@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-
+![GIF]([https://example.com/your_gif_url.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5oN3NyOWplYWN2bmJsMnN4cmFrdHZoMDlhb2ozN3J3c2U5d2w5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif))
 ## About Me
 - 🎓 I'm a 20-year-old student at SEEU Tetovo, pursuing a degree in Software Engineering.
 - 💻 I'm passionate about software development and design.
