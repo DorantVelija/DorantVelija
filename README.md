@@ -10,4 +10,6 @@
 - 🤖 Software Engineering: I'm enthusiastic about building efficient and scalable software solutions.
 - 🏎️🏁 Avid F1 watcher and automotive engineering enthusiast 🛠️
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorantvelija&show_icons=true&locale=en&layout=compact" alt="dorantvelija" /></p>
+
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ5YXFwcjVqeXlmYjF6ZTYwZmRtZjR5Nno2ZWN0NWJkNHNvM2t2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy-downsized.gif)
