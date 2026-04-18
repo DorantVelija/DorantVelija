@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me
-- 🎓 I'm a 21-year-old student at SEEU Tetovo, pursuing a degree in Software Engineering.
+- 🎓 22 years old, pursuing a degree in Software Engineering.
 - 💻 Software development and design.
-- ✨ I love blending creativity with technology and exploring innovative solutions.
 
 ## Interests
 - 🤖 Software Engineering: I build efficient and scalable software solutions.
