@@ -1,8 +1,5 @@
-# Welcome to My GitHub Profile! 👋
-## About Me
-- 🎓 22 years old, pursuing a degree in Software Engineering.
-- 💻 Software development and design.
-- I like software engineering and F1 :)
+- 🎓 22 yo, pursuing a degree in Software Engineering.
+- I like software engineering, robotics, and F1 :)
 <img src="https://komarev.com/ghpvc/?username=dorantvelija&label=Profile%20views&color=0e75b6&style=flat" alt="dorantvelija" />
 
 ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlzaWlsb2ViY3A4NWIwZW5kY2Y1Z3J5cXoya3oyZWJmdTd0aWtpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fuktcok6gp3NkmvxZ/giphy.gif)
